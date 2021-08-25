@@ -1,0 +1,44 @@
+body{
+    background: aliceblue;
+    font-family: 仿宋;
+    font-weight: lighter;
+}
+
+#body_div{
+    text-align: center;
+    height: 300px;
+    margin: auto;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+#what{
+    font-family: 微软雅黑;
+    font-size: larger;
+    color: blue;
+}
+
+#start{
+    color: black;
+    font-family: 仿宋;
+    background: aliceblue;
+}
+#stop{
+    color: black;
+    font-family: 仿宋;
+    background: aliceblue;
+}
+#weibo {
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+}
+.temp{
+    position: absolute;
+    z-index: -1;
+    color: #777;
+    font-family: "微软雅黑 Light";
+}
